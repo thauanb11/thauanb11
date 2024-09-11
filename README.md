@@ -1,15 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
 
-# Olá Terráqueos! 🛸🖖🏽
-📌 Meu nome é Thauan Bruno, mas pode me chamar de thau. Tenho 23 anos, sou casado e sou amante do mundo tecnologico desde que eu era um garotinho pitiquiquinho hahaha 
-   
-🕹️Também tenho espirito de gamer, amo jogar Valorant, Lolzin, Brawhalla e por aí vai...
+# Hello everyone! 🖖🏽
+📌 Hello! I’m Thauan Bruno, a 23-year-old technology enthusiast always on the lookout for new discoveries and challenges. With an adventurous spirit and a constant desire to explore beyond the borders of my homeland, I’m driven by curiosity and the will to grow.
 
-🐶 Sou pai de pet, ela se chama Neytiri (sim, a princesa de pandora da franquia de Avatar) 
+My learning journey is guided by my passion for languages like English and French, which connect me to diverse cultures and experiences. Every experience is an opportunity to broaden my horizons and enrich my worldview.
 
-📚 Atualmente sou estudante da Cubos Academy, curso Desenvolvimento de Software - Full Stack. Pretendo iniciar os estudos de um curso superior em breve.
+On my profile, you’ll find insights into how I apply my creativity and skills in software development. I’m excited about the various programming languages I’m learning and eager to share my creations and learnings with you. I hope my journey inspires you, and I look forward to exchanging ideas and experiences.
 
+Let’s explore the future of technology together! 🚀
 <div align="center">  
 
  ----------------------------------------------------------------------------------------------------------------------------
