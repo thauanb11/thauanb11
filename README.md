@@ -13,7 +13,7 @@ Let’s explore the future of technology together! 🚀
 
  ----------------------------------------------------------------------------------------------------------------------------
 
-## :point_right: Para me encontrar:
+## :point_right: To find me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thauan-bruno-241162248/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thauan11/)
@@ -27,7 +27,7 @@ Let’s explore the future of technology together! 🚀
  ### Hard Skills:
  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,nodejs,express,ts,react,mysql,postgres,nextjs,postgres,nest" />
 
-###  Estudando no Momento:
+###  Studying at the moment:
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nest" />
 
