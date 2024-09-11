@@ -34,6 +34,8 @@ Let’s explore the future of technology together! 🚀
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thauanb11&theme=dark)](https://git.io/streak-stats)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
