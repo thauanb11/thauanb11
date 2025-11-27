@@ -2,7 +2,7 @@
 
 
 # Hello everyone! 🖖🏽
-📌 Hello! I’m Thauan Bruno, a 23-year-old technology enthusiast always on the lookout for new discoveries and challenges. With an adventurous spirit and a constant desire to explore beyond the borders of my homeland, I’m driven by curiosity and the will to grow.
+📌 Hello! I’m Thauan Bruno, a 24-year-old technology enthusiast always on the lookout for new discoveries and challenges. With an adventurous spirit and a constant desire to explore beyond the borders of my homeland, I’m driven by curiosity and the will to grow.
 
 My learning journey is guided by my passion for languages like English and French, which connect me to diverse cultures and experiences. Every experience is an opportunity to broaden my horizons and enrich my worldview.
 
