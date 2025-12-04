@@ -2,18 +2,18 @@
 
 
 # Hello everyone! 🖖🏽
-📌 Hello! I’m Thauan Bruno, a 24-year-old technology enthusiast always on the lookout for new discoveries and challenges. With an adventurous spirit and a constant desire to explore beyond the borders of my homeland, I’m driven by curiosity and the will to grow.
+📌 Olá! Eu sou Thauan Bruno, um entusiasta de tecnologia de 24 anos, apaixonado por descobrir novos horizontes e enfrentar desafios. Com um espírito aventureiro e uma curiosidade sem limites, estou sempre motivado a aprender e evoluir.
 
-My learning journey is guided by my passion for languages like English and French, which connect me to diverse cultures and experiences. Every experience is an opportunity to broaden my horizons and enrich my worldview.
+Minha jornada é guiada pelo amor por idiomas como inglês e francês, que me conectam a culturas e perspectivas diversas. Cada experiência é uma oportunidade de expandir meu conhecimento e enriquecer minha visão de mundo.
 
-On my profile, you’ll find insights into how I apply my creativity and skills in software development. I’m excited about the various programming languages I’m learning and eager to share my creations and learnings with you. I hope my journey inspires you, and I look forward to exchanging ideas and experiences.
+Aqui no meu perfil, você encontrará como combino criatividade e habilidades técnicas no desenvolvimento de software. Sou apaixonado por explorar diferentes linguagens de programação e compartilhar meus projetos, aprendizados e insights com a comunidade.
 
-Let’s explore the future of technology together! 🚀
+Espero que minha trajetória te inspire, e estou animado para trocar ideias e experiências. Vamos construir juntos o futuro da tecnologia! 🚀
 <div align="center">  
 
  ----------------------------------------------------------------------------------------------------------------------------
 
-## :point_right: To find me:
+## :point_right: Sobre mim:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devthauanbruno/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thauan11/)
@@ -36,12 +36,6 @@ Let’s explore the future of technology together! 🚀
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thauanb11&theme=dark)](https://git.io/streak-stats)
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thauanb11}/count.svg" /></p> 
-<br>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
  
