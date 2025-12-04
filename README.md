@@ -27,15 +27,6 @@ Espero que minha trajetória te inspire, e estou animado para trocar ideias e ex
  ### Hard Skills:
  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,nodejs,express,ts,react,mysql,postgres,nextjs,postgres,nest" />
 
-###  Studying at the moment:
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nest" />
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thauanb11&theme=dark)](https://git.io/streak-stats)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
  
