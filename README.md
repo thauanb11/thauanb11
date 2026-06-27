@@ -2,13 +2,14 @@
 
 
 # Hello everyone! 🖖🏽
-📌 Olá! Eu sou Thauan Bruno, um entusiasta de tecnologia de 24 anos, apaixonado por descobrir novos horizontes e enfrentar desafios. Com um espírito aventureiro e uma curiosidade sem limites, estou sempre motivado a aprender e evoluir.
 
-Minha jornada é guiada pelo amor por idiomas como inglês e francês, que me conectam a culturas e perspectivas diversas. Cada experiência é uma oportunidade de expandir meu conhecimento e enriquecer minha visão de mundo.
+📌 Hi! I'm Thauan Bruno, 25 years old, a junior Full Stack Developer and Computer Engineering student at IFPB.
 
-Aqui no meu perfil, você encontrará como combino criatividade e habilidades técnicas no desenvolvimento de software. Sou apaixonado por explorar diferentes linguagens de programação e compartilhar meus projetos, aprendizados e insights com a comunidade.
+Naturally curious, I'm passionate about technology, languages (English and French), and taking on new challenges as opportunities to learn. I enjoy combining creativity and technical skill in software development, exploring different programming languages, and sharing projects with the community.
 
-Espero que minha trajetória te inspire, e estou animado para trocar ideias e experiências. Vamos construir juntos o futuro da tecnologia! 🚀
+Outside of code, I train jiu-jitsu and do theater — two passions that teach me discipline and communication, which I carry into how I work.
+
+Let's build the future of technology together! 🚀
 <div align="center">  
 
  ----------------------------------------------------------------------------------------------------------------------------
@@ -25,7 +26,7 @@ Espero que minha trajetória te inspire, e estou animado para trocar ideias e ex
 
 ----------------------------------------------------------------------------------------------------------------------------
  ### Hard Skills:
- <img src="https://skillicons.dev/icons?i=html,css,js,py,java,nodejs,express,ts,react,mysql,postgres,nextjs,postgres,nest" />
+ <img src="https://skillicons.dev/icons?i=html java,nodejs,express,ts,react,mysql,postgres,nextjs,springboot" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
