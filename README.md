@@ -14,7 +14,7 @@ Let's build the future of technology together! 🚀
 
  ----------------------------------------------------------------------------------------------------------------------------
 
-## :point_right: Sobre mim:
+## :point_right: About Me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devthauanbruno/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thauan11/)
@@ -26,7 +26,7 @@ Let's build the future of technology together! 🚀
 
 ----------------------------------------------------------------------------------------------------------------------------
  ### Hard Skills:
- <img src="https://skillicons.dev/icons?i=html java,nodejs,express,ts,react,mysql,postgres,nextjs,springboot" />
+ <img src="https://skillicons.dev/icons?i=html,java,nodejs,express,ts,react,mysql,postgres,nextjs,springboot" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
